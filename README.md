@@ -132,3 +132,7 @@ python isochrones.py
 - [Leaflet.js](https://leafletjs.com/) for map visualization
 - [Valhalla](https://github.com/valhalla/valhalla) for isochrone generation
 - [Flask](https://flask.palletsprojects.com/) for the web framework
+
+## Contributors
+- G. Prabhanjana
+- Yashas Shetty
